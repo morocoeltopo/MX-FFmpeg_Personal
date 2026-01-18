@@ -5,8 +5,8 @@ OUTPUT_DIR="${SCRIPT_DIR}/output"
 MX_FF_SRC_DIR="${SCRIPT_DIR}/src"
 BUILD_ROOT="${MX_FF_SRC_DIR}/jni"
 
-VERSION=${VERSION:="1.87.0"}
-BUILD_NUMBER="6"
+VERSION=${VERSION:="2.5.0"}
+BUILD_NUMBER="0"
 MX_FF_SRC_URL="https://amazon-source-code-downloads.s3.us-east-1.amazonaws.com/MXPlayer/client/mxplayer-2.5.0-ffmpeg-v4.2-src.tar.gz"
 SRC_FILENAME="ffmpeg-src.tar.gz"
 
